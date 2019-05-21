@@ -1,0 +1,9 @@
+There are 7 operators in python.
+
+arithmetic operator.
+comparision (relational )operator.
+assignment operator.
+logical operator.
+bitwise operator.
+membership operator.
+identity operator.
