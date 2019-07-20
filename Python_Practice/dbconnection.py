@@ -8,6 +8,3 @@ cursor = connection.cursor()
 cursor.execute("""SELECT first_name,last_name  FROM employees""")
 for fname, lname in cursor:
     print ("first name -->",fname,"last_name -->",lname)
-
-
-
